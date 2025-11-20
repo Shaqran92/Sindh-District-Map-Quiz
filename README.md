@@ -1,12 +1,12 @@
-#📘 Sindh Districts Map Quiz – Python Turtle Game
+# 📘 Sindh Districts Map Quiz – Python Turtle Game
 
 An interactive and educational Python game that challenges players to identify and locate all districts of Sindh, Pakistan on a coordinate-based map. Built using Python Turtle Graphics, Pandas, and CSV data handling, this project visually labels districts on the map as users guess them.
 
-##🗺️ Overview
+## 🗺️ Overview
 
 This game reads district names & coordinates from a CSV file and plots them on a Turtle Graphics map when the user guesses correctly. It includes score tracking, error handling, visual feedback, and an on-map reveal of missed districts.
 
-##🚀 Features
+## 🚀 Features
 **🎮 Interactive Gameplay**
 
 - Type district names to guess them.
@@ -41,14 +41,14 @@ This game reads district names & coordinates from a CSV file and plots them on a
 └── README.md                    # Project documentation
 ```
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Turtle Graphics
 - Pandas
 - CSV Data Processing
 
-##▶️ How to Run
+## ▶️ How to Run
 
 1. Install dependencies:
 ```bash
@@ -68,7 +68,7 @@ python SindhDistrictsGame.py
 - Correct guesses are labeled in dark blue
 - Missed districts appear in red
 
-##🏆 Win Condition
+## 🏆 Win Condition
 
 You win the game when you correctly identify all districts of Sindh.
 A celebratory message will be displayed on completion 🎉.
