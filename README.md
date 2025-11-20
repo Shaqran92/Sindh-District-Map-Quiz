@@ -60,7 +60,7 @@ python SindhDistrictsGame.py
 ```
 3. Enjoy the quiz!
 
-##🎯 Gameplay Instructions
+## 🎯 Gameplay Instructions
 
 - Type a district name (e.g., Sukkur, Hyderabad, Karachi East)
 - Type Show → reveals all unguessed districts
